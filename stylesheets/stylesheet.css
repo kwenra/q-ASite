@@ -11,7 +11,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #e8a28b;
+  color: #8CEDD5;
   text-align: center;
 }
 
@@ -23,7 +23,7 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: left;
-  background-color: #8CEDD5;
+  background-color: #e8a28b;
 }
 
 section {
