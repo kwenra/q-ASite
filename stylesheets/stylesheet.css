@@ -46,8 +46,8 @@ a {
 }
 
 .button:hover {
-  background-color: #666;
-  color: #86D1BE;
+  background-color: #86D1BE;
+  color: #666;
   text-decoration: none;
 }
 
